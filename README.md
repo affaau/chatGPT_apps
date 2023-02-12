@@ -1,7 +1,7 @@
 # chatGPT_apps
 A simple python (test) script to simplify the request to chatGPT using OpenAI API.
 
-GPT_apps.py is the main script.
+GPT_apps.py is the main script to input question and display result with comamnd terminal.
 <br>
 ask.bat is Windows batch file to... type less ;)
 <br><br>

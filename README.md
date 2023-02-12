@@ -26,7 +26,7 @@ Satya Nadella is the current CEO of Microsoft.<br>
 > q<br>
 Bye!<br>
 <br>
-To run python script once,<br>
+To directly execute python script once,<br>
 $ python GPT_apps.py "embrace your qwuestion within quotation"<br>
 > (type yr question after this prompt)<br>
 <br>

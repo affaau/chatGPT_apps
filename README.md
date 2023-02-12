@@ -5,7 +5,7 @@ A simple python (test) script to simplify the request to chatGPT using OpenAI AP
 <br>
 <b>ask.bat</b> is Windows batch file to... type less ;)
 <br><br>
-Usage example of ask.bat in Windows:<br>
+Usage example of ask.bat in Windows:
 1. To make a request once.<br>
 Type ask, follow with the question<br>
 $ ask who is the CEO of google<br>

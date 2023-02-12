@@ -5,6 +5,7 @@ GPT_apps.py is the main script.
 
 ask.bat is Windows batch file to... type less ;)
 
+
 Usage example of ask.bat in Windows:
 1. To make a request once.
 Type ask, follow with the question

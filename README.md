@@ -2,6 +2,7 @@
 A simple python (test) script to simplify the request to chatGPT using OpenAI API.
 
 GPT_apps.py is the main script.
+
 ask.bat is Windows batch file to... type less ;)
 
 Usage example of ask.bat in Windows:

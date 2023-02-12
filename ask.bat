@@ -18,5 +18,5 @@ for %%i in (%*) do (
 
 :: Pass to python script as input argument
 :: include your full path of the script below
-python D:\Workspace\Python\chatGPT\GPT_apps.py %args%
+python path_to\GPT_apps.py %args%
 endlocal

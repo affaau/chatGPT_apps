@@ -11,7 +11,6 @@ Type ask, follow with the question<br>
 $ ask who is the CEO of google<br>
 <br>
 Sundar Pichai is the current CEO of Google.<br>
-<br>
 2. To keep apps open for multiple requests.<br>
 Just type ask<br>
 $ ask<br>

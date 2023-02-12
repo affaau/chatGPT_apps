@@ -34,3 +34,5 @@ $ python GPT_app.py
 '>' prompt will show up again after every question, waiting for next one 
 
 Type 'q' or 'Q' to quit the program.
+
+Have fun!
